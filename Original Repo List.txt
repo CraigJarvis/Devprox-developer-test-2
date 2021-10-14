@@ -1,0 +1,4 @@
+Original GitHub repositories
+
+https://github.com/lmilunovic/UDAS-Database.git
+https://github.com/indrekru/spring-boot-2-oauth2-resource-server.git
